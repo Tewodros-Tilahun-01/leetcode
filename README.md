@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
 | [1472-increasing-decreasing-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1472-increasing-decreasing-string) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
