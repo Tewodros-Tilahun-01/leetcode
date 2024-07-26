@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Two Pointers
+|  |
+| ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 <!---LeetCode Topics End-->
