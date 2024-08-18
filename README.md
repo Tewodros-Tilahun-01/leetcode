@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0739-daily-temperatures) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -112,8 +113,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
