@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
+| [0303-range-sum-query-immutable](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0682-baseball-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0739-daily-temperatures) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
