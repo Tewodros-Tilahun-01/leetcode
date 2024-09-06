@@ -5,8 +5,6 @@ class Solution:
         """
         ptr = 0
         for i in range(len(nums)):
-            if nums[i] != 0 :
-                nums[ptr] = nums[i]
+            if nums[i] != 0:
+                nums[ptr] , nums[i] = nums[i] , nums[ptr]
                 ptr += 1
-        for i in range(ptr,len(nums)):
-            nums[i] = 0
