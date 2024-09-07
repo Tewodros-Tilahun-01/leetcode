@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2714-left-and-right-sum-differences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [2048-build-array-from-permutation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
