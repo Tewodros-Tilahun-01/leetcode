@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1472-increasing-decreasing-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
