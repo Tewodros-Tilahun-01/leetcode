@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1206-corporate-flight-bookings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0724-find-pivot-index) |
 | [1206-corporate-flight-bookings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Recursion
 |  |
