@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1472-increasing-decreasing-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
