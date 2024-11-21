@@ -4,12 +4,11 @@ class Solution:
         dic1 = {}
         res = []
         for i in range(len(list1)):
-            st1 = list1[i]
-            dic1[st1] = i
+            dic1[list1[i]] = i
         for i in range(len(list2)):
             st1 = list2[i]
             if st1 in dic1:
-                if min_num > i + dic1[st1]:
+                if i + dic1[st1] < min_num:
                     min_num = i + dic1[st1]
                     res = []
                     res.append(st1)
