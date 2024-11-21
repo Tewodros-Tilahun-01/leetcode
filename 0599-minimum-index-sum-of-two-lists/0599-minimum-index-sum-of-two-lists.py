@@ -2,7 +2,6 @@ class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
         min_num = 2000
         dic1 = {}
-        dic2 = {}
         res = []
         for i in range(len(list1)):
             st1 = list1[i]
