@@ -15,6 +15,7 @@ class Solution:
             for j in count:
                 if j not in i or i.count(j) < count[j]:
                     completing = False
+                    break
             if completing and min_len > len(i):
                 res = i
                 min_len = len(i)
