@@ -12,5 +12,5 @@ class Solution:
                     lo = mid +1
                 else:
                     hi=mid - 1
-                print(mid)
+
         return False
