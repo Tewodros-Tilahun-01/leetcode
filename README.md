@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
