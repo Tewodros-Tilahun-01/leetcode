@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
+| [1168-duplicate-zeros](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1168-duplicate-zeros) |
 | [1206-corporate-flight-bookings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1894-merge-strings-alternately) |
