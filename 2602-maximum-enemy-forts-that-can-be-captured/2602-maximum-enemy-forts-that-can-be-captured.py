@@ -1,14 +1,9 @@
 class Solution:
     def captureForts(self, forts: List[int]) -> int:
-        pt1 , pt2 = 0,0
-        max_num = 0
-        for i in range(len(forts)):
-            if forts[i] == 1:
-                pt1 = i
-            if forts[i] == -1:
-                pt2 = i
-            if forts[pt1] == -forts[pt2] :
-                max_num = max(max_num,abs(pt1 - pt2) -1)
-                pt1 = i
-                pt2 = i
-        return max_num
+        res = pt2 = 0
+        for pt1 ,value in enumerate(forts):
+            if value:
+                if forts[pt2] == -value:
+                    res = max(res,pt1-pt2-1)
+                pt2 = pt1
+        return res
