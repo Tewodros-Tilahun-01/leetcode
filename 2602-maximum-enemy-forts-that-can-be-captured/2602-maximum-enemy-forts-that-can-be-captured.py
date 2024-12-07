@@ -7,7 +7,7 @@ class Solution:
                 pt1 = i
             if forts[i] == -1:
                 pt2 = i
-            if forts[pt1] == 1 and forts[pt2] == -1:
+            if forts[pt1] == -forts[pt2] :
                 max_num = max(max_num,abs(pt1 - pt2) -1)
                 pt1 = i
                 pt2 = i
