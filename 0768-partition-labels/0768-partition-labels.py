@@ -1,15 +1,12 @@
-class Solution:
-    def partitionLabels(self, s: str) -> List[int]:
-        count = Counter(s)
-        part = []
-        res = []
-        temp = prv = 0
-        for i in range(len(s)):
-            if not s[i] in part:
-                temp += count[s[i]]
-                part.append(s[i])
-            if temp == i  + 1:
-                res.append(i + 1 - prv)
-                part = []
-                prv = i + 1
-        return res
+class Solution(object):
+    def partitionLabels(self, S):
+        last = {c: i for i, c in enumerate(S)}
+        j = anchor = 0
+        ans = []
+        for i, c in enumerate(S):
+            j = max(j, last[c])
+            if i == j:
+                ans.append(i - anchor + 1)
+                anchor = i + 1
+            
+        return ans
