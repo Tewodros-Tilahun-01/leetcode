@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0749-shortest-completing-word) |
+| [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0889-buddy-strings) |
 | [0965-unique-email-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0965-unique-email-addresses) |
 | [1217-relative-sort-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1217-relative-sort-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0749-shortest-completing-word](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0749-shortest-completing-word) |
+| [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0889-buddy-strings) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
