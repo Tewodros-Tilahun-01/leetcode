@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1168-duplicate-zeros) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0412-fizz-buzz) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2556-convert-the-temperature) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Counting Sort
@@ -358,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+## Interactive
+|  |
+| ------- |
+| [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
