@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3195-separate-black-and-white-balls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Union Find
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3195-separate-black-and-white-balls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [3195-separate-black-and-white-balls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
