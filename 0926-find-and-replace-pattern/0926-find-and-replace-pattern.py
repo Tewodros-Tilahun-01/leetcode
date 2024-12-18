@@ -7,7 +7,6 @@ class Solution:
                 pt = {}
                 set1 = set()
                 while j<len(word):
-                    print(not pattern[j] in pt , not word[j] in set1)
                     if not pattern[j] in pt :
                         if word[j] in set1:
                             break
