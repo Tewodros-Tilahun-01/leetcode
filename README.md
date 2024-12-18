@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0749-shortest-completing-word) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0926-find-and-replace-pattern](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0941-sort-array-by-parity](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0965-unique-email-addresses) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0889-buddy-strings) |
+| [0926-find-and-replace-pattern](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0965-unique-email-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0965-unique-email-addresses) |
 | [1217-relative-sort-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0889-buddy-strings) |
+| [0926-find-and-replace-pattern](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0965-unique-email-addresses) |
