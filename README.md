@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3195-separate-black-and-white-balls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Union Find
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1873-longest-nice-substring](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1873-longest-nice-substring) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
