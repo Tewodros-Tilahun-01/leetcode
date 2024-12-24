@@ -8,8 +8,8 @@ class Solution:
             if i < k:
                 sumNum += nums[i]
             else:
-                maxnum = max(sumNum/k,maxnum)
+                maxnum = max(sumNum,maxnum)
                 sumNum -= nums[ i-k ] 
                 sumNum += nums[ i ]
-                maxnum = max(sumNum/k,maxnum)
-        return maxnum
+                maxnum = max(sumNum,maxnum)
+        return maxnum/k
