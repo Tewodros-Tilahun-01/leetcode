@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0889-buddy-strings) |
 | [0926-find-and-replace-pattern](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0965-unique-email-addresses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
