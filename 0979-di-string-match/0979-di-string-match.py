@@ -10,6 +10,4 @@ class Solution:
             else:
                 res.append(d)
                 d -= 1
-        if letter =="I":res.append(i)
-        else:res.append(d)
-        return res
+        return res + [i]
