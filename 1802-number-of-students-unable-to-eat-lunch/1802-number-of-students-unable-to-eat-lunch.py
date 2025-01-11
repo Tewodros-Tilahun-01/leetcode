@@ -4,7 +4,6 @@ class Solution:
         s = deque(sandwiches)
         count = Counter(students)
         while len(s) and count[s[0]] > 0:  
-            print(s,q)
             if s[0] == q[0]:
                 count[ s.popleft() ] -= 1
                 q.popleft()
