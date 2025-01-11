@@ -3,10 +3,11 @@ class Solution:
         q = deque(students)
         s = deque(sandwiches)
         count = Counter(students)
-        while len(s) and s[0] in q:  
+        while len(s) and count[s[0]] > 0:  
+            print(s,q)
             if s[0] == q[0]:
-                s.popleft()
+                count[ s.popleft() ] -= 1
                 q.popleft()
             else:
                 q.append(q.popleft())
-        return len(q)
+        return len(s)
