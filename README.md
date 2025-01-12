@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0075-sort-colors) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0075-sort-colors) |
