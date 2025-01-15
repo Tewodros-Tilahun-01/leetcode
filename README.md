@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3195-separate-black-and-white-balls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3379-score-of-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3379-score-of-a-string) |
 ## Union Find
 |  |
 | ------- |
