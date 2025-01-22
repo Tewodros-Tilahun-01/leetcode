@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0412-fizz-buzz) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
