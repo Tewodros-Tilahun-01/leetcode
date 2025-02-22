@@ -8,12 +8,9 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         tchel = head
         eli = head
-        while tchel:
+        while tchel and tchel.next:
             eli = eli.next
-            tchel = tchel.next
-            if tchel == None:
-                return False
-            tchel = tchel.next
+            tchel = tchel.next.next
             if eli == tchel:
                 return True
         return False 
