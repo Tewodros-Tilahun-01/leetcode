@@ -10,8 +10,7 @@ class Solution:
         for i in range(n):
             fast = fast.next
         if not fast:
-            slow = slow.next
-            return slow
+            return slow.next
         while fast.next:
             fast = fast.next
             slow = slow.next
