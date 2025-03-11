@@ -22,20 +22,10 @@ class Solution:
                 cur = nxt
                 pos += 1
                 flag = True
-                # print(2)
             if flag:
-            
                 temp.next.next = None
                 temp.next = None
-                
-               
-                # temp.next = prv
-                # print(prv.)
-                # print(cur)
                 temp.next = cur
-                # temp.next.next = nxt
-                print(dummy)
-                print(prv)
                 break
             else:
                 prv = temp
