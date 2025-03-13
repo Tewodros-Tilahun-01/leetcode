@@ -5,11 +5,8 @@ class Solution:
         for i in stones:
             heapq.heappush(max_heap, -i)
         while len(max_heap) > 1:
-            largest1 = -heapq.heappop(max_heap)
-            largest2 = -heapq.heappop(max_heap)
-            if largest1 != largest2:
-                heapq.heappush(max_heap, -(largest1 - largest2))
-        return -max_heap[0] if len(max_heap) == 1 else  0
+            heapq.heappush(max_heap, -(-heapq.heappop(max_heap) - -heapq.heappop(max_heap)))   
+        return -max_heap[0] 
 
 
              
