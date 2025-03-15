@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
 ## Prefix Sum
 |  |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1127-last-stone-weight](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1127-last-stone-weight) |
 ## Interactive
@@ -465,4 +468,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
