@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0476-number-complement) |
 | [1873-longest-nice-substring](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1873-longest-nice-substring) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
