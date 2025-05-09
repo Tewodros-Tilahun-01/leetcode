@@ -1,16 +1,17 @@
 class Solution:
     def findLHS(self, nums: List[int]) -> int:
-        nums.sort()
-        left = 0
-        right = 0
-        res = 0
-        while right < len(nums):
-            x = nums[right] - nums[left] 
-            if x == 1:
-                res = max(right-left+1,res)
-                right += 1
-            elif x > 1:
-                left += 1
-            else:
-                right += 1
-        return res
+        count = {}
+        for num in nums:
+            count[num] = count.get(num, 0) + 1
+        
+        max_length = 0
+        
+        # Check each number in the frequency counter
+        for num in count:
+            # If num + 1 exists in the counter
+            if num + 1 in count:
+                # Calculate length of subsequence with num and num + 1
+                current_length = count[num] + count[num + 1]
+                max_length = max(max_length, current_length)
+        
+        return max_length
