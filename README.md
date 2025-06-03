@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2050-count-good-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2556-convert-the-temperature) |
 ## Number Theory
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
