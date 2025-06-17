@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2502-sort-the-people](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2502-sort-the-people) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3195-separate-black-and-white-balls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
