@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
