@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Trie
