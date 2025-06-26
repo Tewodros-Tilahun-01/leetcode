@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0455-assign-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
@@ -555,14 +558,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [1039-find-the-town-judge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1039-find-the-town-judge) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
