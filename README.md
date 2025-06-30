@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [1039-find-the-town-judge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1039-find-the-town-judge) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1916-find-center-of-star-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1916-find-center-of-star-graph) |
 ## Depth-First Search
 |  |
