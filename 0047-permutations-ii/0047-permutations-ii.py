@@ -8,7 +8,6 @@ class Solution:
                 return
             val = up[0]
             for i in range(len(p)+1):
-                print(1)
                 helper( p[:i] + [ val ]+  p[i:],up[1:])
         helper([],nums)
         return list(res)
