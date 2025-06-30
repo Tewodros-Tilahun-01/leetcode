@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0088-merge-sorted-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0088-merge-sorted-array) |
@@ -580,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
