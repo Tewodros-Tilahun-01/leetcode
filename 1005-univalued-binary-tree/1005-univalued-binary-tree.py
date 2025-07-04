@@ -9,18 +9,8 @@ class Solution:
         def bfs(node):
             if not node:
                 return True
-            x ,y = True,True
-            if node.right:
-                if node.right.val == node.val :
-                    x = bfs(node.right)
-                else:
-                    return False
-            
-            if node.left :
-                if node.left.val == node.val:
-                   y =  bfs(node.left)
-                else:
-                    return False
-            return x and y
+            if node.val != root.val:
+                return False
+            return bfs(node.left) and bfs(node.right)
         return bfs(root)
 
