@@ -8,7 +8,6 @@ class Solution:
         res = []
         def rec(node,total,pow):
             if not node:
-                print(total)
                 return total
             total += node.val * pow
             return rec(node.next,total,pow * 10)
