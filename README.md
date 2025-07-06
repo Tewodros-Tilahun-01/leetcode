@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0228-summary-ranges) |
@@ -269,10 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0200-number-of-islands) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1791-richest-customer-wealth](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
