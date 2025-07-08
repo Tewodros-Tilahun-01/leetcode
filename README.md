@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1005-univalued-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1731-even-odd-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1731-even-odd-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1005-univalued-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1731-even-odd-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1731-even-odd-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1731-even-odd-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1731-even-odd-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
