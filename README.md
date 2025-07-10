@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1013-fibonacci-number) |
