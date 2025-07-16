@@ -11,5 +11,6 @@ class Solution:
             else:
                 visited.add(s[j])
                 j += 1
-            longest = max(longest,j-i)
+                longest = max(longest,j-i)
+            
         return longest
