@@ -5,6 +5,5 @@ class Solution:
         res = 0
         for j in range(len(processorTime)):
             index = 4 * j
-            for i in range(index , index + 4):
-                res = max(res,tasks[i] + processorTime[j])
+            res = max(res,tasks[index] + processorTime[j])
         return res
