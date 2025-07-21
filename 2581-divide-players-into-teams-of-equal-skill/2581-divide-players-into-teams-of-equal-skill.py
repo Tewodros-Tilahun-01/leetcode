@@ -7,7 +7,6 @@ class Solution:
         i , j = i+1 , j-1
 
         while i < j:
-            print(total_skill , skill[i] + skill[j])
             if total_skill != skill[i] + skill[j]:
                 return -1
             else:
