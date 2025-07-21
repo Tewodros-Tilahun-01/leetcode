@@ -1,7 +1,6 @@
 class Solution:
     def combine(self,n,k):
         
-        
         def backtrack(com,res,start):
             if len(com) == k:
                 res.append(com[:])
