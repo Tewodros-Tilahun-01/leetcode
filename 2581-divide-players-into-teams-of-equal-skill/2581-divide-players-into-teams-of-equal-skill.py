@@ -1,12 +1,19 @@
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
-        target = 2 * sum(skill) // len(skill)        
-        chemistry = 0     
-        cnt = Counter(skill)                 
+        skill.sort()
+        i , j = 0 , len(skill)-1
+        chem = skill[i] * skill[j]
+        total_skill = skill[i] + skill[j]
+        i , j = i+1 , j-1
 
-        for v, c in cnt.items():           
-            if c != cnt[target - v]:             
-                return -1                 
-            chemistry += c * v * (target - v)    
-            
-        return chemistry // 2 
+        while i < j:
+            print(total_skill , skill[i] + skill[j])
+            if total_skill != skill[i] + skill[j]:
+                return -1
+            else:
+                chem += skill[i] * skill[j]
+            i , j = i+1 , j-1
+        
+        return chem
+
+
