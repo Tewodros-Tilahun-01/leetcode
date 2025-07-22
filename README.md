@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0441-arranging-coins) |
@@ -724,4 +725,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0207-course-schedule) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
