@@ -3,8 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        ptr = 0
+        first_zero = -1
         for i in range(len(nums)):
-            if nums[i] != 0:
-                nums[ptr] , nums[i] = nums[i] , nums[ptr]
-                ptr += 1
+            if nums[i] == 0:
+                first_zero = i
+                break
+        if first_zero == -1:
+            return 
+        for i in range(len(nums)):
+            if nums[i] != 0 and i > first_zero:
+                nums[first_zero] , nums[i] = nums[i],nums[first_zero]
+                first_zero += 1
+        
