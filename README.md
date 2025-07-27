@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1873-longest-nice-substring) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1127-last-stone-weight](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Interactive
 |  |
 | ------- |
@@ -665,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Memoization
 |  |
 | ------- |
