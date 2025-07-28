@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1168-duplicate-zeros) |
 | [1206-corporate-flight-bookings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1217-relative-sort-array) |
+| [1418-fair-distribution-of-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0476-number-complement) |
+| [1418-fair-distribution-of-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1873-longest-nice-substring](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1873-longest-nice-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1013-fibonacci-number) |
+| [1418-fair-distribution-of-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0257-binary-tree-paths) |
+| [1418-fair-distribution-of-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Topological Sort
 |  |
 | ------- |
@@ -751,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0292-nim-game) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
