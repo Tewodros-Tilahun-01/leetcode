@@ -14,13 +14,12 @@ class Solution:
                 new_row = row + x 
                 new_col = col + y
                 if 0 <= new_row < len(board) and 0 <= new_col < len(board[0]):
-                    print("new",new_row,new_col)
                     dfs(new_row,new_col)
         i = 0
         j = 0
         rev = True
-        # check the edges if we get "O" then call dfs on those cells 
 
+        # check the edges if we get "O" then call dfs on those cells 
         while (not (i == 0 and j == 0)) or  rev:
             dfs(i,j)
             if i < len(board)-1 and rev:
@@ -35,6 +34,7 @@ class Solution:
             else:
                 break
 
+        # make the "N" to "O" and other to "X"
         for i in range(len(board)):
             for j in range(len(board[0])):
                 if board[i][j] == "N":
