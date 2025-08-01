@@ -6,7 +6,7 @@ class Solution:
         """
 
         rows, cols = len(board), len(board[0])
-        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]  # Right, down, left, up
+        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]  
 
         def dfs(row: int, col: int) -> None:
             """Marks 'O' cells connected to the border as 'N' using DFS."""
@@ -19,20 +19,20 @@ class Solution:
 
         # Step 1: Traverse borders to find 'O' cells and mark connected regions
         row, col = 0, 0
-        reverse = True  # Controls direction of border traversal
+        reverse = True  
         while (row != 0 or col != 0) or reverse:
             if board[row][col] == "O":
                 dfs(row, col)
             # Move along borders: top -> right -> bottom -> left
             if row < rows - 1 and reverse:
-                row += 1  # Move down
+                row += 1  
             elif col < cols - 1 and reverse:
-                col += 1  # Move right
+                col += 1 
             elif row > 0:
-                row -= 1  # Move up
+                row -= 1  
                 reverse = False
             elif col > 0:
-                col -= 1  # Move left
+                col -= 1  
             else:
                 break
 
@@ -40,7 +40,7 @@ class Solution:
         for i in range(rows):
             for j in range(cols):
                 if board[i][j] == "N":
-                    board[i][j] = "O"  # Restore border-connected cells
+                    board[i][j] = "O"  
                 else:
-                    board[i][j] = "X"  # Flip surrounded cells
+                    board[i][j] = "X"  
         
