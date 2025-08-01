@@ -1,49 +1,46 @@
 class Solution:
     def solve(self, board: List[List[str]]) -> None:
         """
-        Do not return anything, modify board in-place instead.
+        Modifies the board in-place to flip surrounded 'O' regions to 'X'.
+        'O' regions connected to the border remain 'O'.
         """
-        dir = [(0,1),(1,0),(-1,0),(0,-1)]
-      
-        def dfs(row,col):
-            if board[row][col] != "O":
-                return 
-            # make "N" for those cell that are connected to the edge
-            board[row][col] = "N"
-            for x , y in dir:
-                new_row = row + x 
-                new_col = col + y
-                if 0 <= new_row < len(board) and 0 <= new_col < len(board[0]):
-                    dfs(new_row,new_col)
-        i = 0
-        j = 0
-        rev = True
 
-        # check the edges if we get "O" then call dfs on those cells 
-        while (not (i == 0 and j == 0)) or  rev:
-            dfs(i,j)
-            if i < len(board)-1 and rev:
-                i += 1
-            elif j < len(board[0])-1 and rev:
-                j += 1 
-            elif i > 0 :
-                i -= 1 
-                rev = False
-            elif j > 0:
-                j -= 1
+        rows, cols = len(board), len(board[0])
+        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]  # Right, down, left, up
+
+        def dfs(row: int, col: int) -> None:
+            """Marks 'O' cells connected to the border as 'N' using DFS."""
+            if row < 0 or row >= rows or col < 0 or col >= cols or board[row][col] != "O":
+                return
+            board[row][col] = "N"  # Mark as connected to border
+            for dx, dy in directions:
+                new_row, new_col = row + dx, col + dy
+                dfs(new_row, new_col)
+
+        # Step 1: Traverse borders to find 'O' cells and mark connected regions
+        row, col = 0, 0
+        reverse = True  # Controls direction of border traversal
+        while (row != 0 or col != 0) or reverse:
+            if board[row][col] == "O":
+                dfs(row, col)
+            # Move along borders: top -> right -> bottom -> left
+            if row < rows - 1 and reverse:
+                row += 1  # Move down
+            elif col < cols - 1 and reverse:
+                col += 1  # Move right
+            elif row > 0:
+                row -= 1  # Move up
+                reverse = False
+            elif col > 0:
+                col -= 1  # Move left
             else:
                 break
 
-        # make the "N" to "O" and other to "X"
-        for i in range(len(board)):
-            for j in range(len(board[0])):
+        # Step 2: Flip 'O' to 'X' (surrounded) and 'N' back to 'O' (not surrounded)
+        for i in range(rows):
+            for j in range(cols):
                 if board[i][j] == "N":
-                    board[i][j] = "O"
+                    board[i][j] = "O"  # Restore border-connected cells
                 else:
-                    board[i][j] = "X"
-            
-        
-        
-            
-            
+                    board[i][j] = "X"  # Flip surrounded cells
         
