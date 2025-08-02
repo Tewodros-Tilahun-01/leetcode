@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1168-duplicate-zeros) |
 | [1206-corporate-flight-bookings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1206-corporate-flight-bookings) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0965-unique-email-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0965-unique-email-addresses) |
 | [1039-find-the-town-judge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1039-find-the-town-judge) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1472-increasing-decreasing-string) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0979-di-string-match) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
