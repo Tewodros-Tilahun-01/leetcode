@@ -6,7 +6,8 @@ class Solution:
             while count[i] > 0:
                 res.append(i)
                 count[i] -= 1
+        check = set(arr2)
         for i in sorted(arr1):
-            if i not in arr2:
+            if i not in check:
                 res.append(i)
         return res
