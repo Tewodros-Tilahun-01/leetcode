@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Stack
 |  |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0257-binary-tree-paths) |
 | [1418-fair-distribution-of-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Topological Sort
 |  |
 | ------- |
