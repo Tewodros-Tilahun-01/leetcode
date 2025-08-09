@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [2032-largest-odd-number-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2050-count-good-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2491-smallest-even-multiple](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2491-smallest-even-multiple) |
