@@ -18,7 +18,6 @@ class Solution:
             j += 1
 
         n = len(nums3)
-        print(nums3)
         if n % 2 == 0:
             return ( nums3[n//2] + nums3[n//2 - 1] ) / 2
         else:
