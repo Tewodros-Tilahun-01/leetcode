@@ -14,10 +14,7 @@ class Solution:
                 if val <= 255 and len(st) == len(str(val)):
                     ip.append(val)
                     backtrack(ip,j+1)
-                    val = ip.pop()
-                
-                
-                
+                    val = ip.pop()       
         ip = []
         backtrack(ip,0)
         return res
