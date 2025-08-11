@@ -1,29 +1,35 @@
 class Solution:
-    def restoreIpAddresses(self, s: str) -> list[str]:
+    def restoreIpAddresses(self, s: str) -> List[str]:
         res = []
         n = len(s)
-
-        def backtrack(start: int, path: list[str]):
-            print(path)
-            # If we've formed 4 segments and used all chars
-            if len(path) == 4:
-                if start == n:
-                    res.append(".".join(path))
+        
+        def backtrack(start: int, parts: List[int], count: int):
+            # Base case: valid IP address found
+            if count == 4 and start == n:
+                res.append(".".join(map(str, parts)))
                 return
-
+            
+            # Early termination: too many parts or not enough digits
+            if count > 4 or start >= n or (4 - count) * 3 < n - start:
+                return
+                
             # Try segments of length 1 to 3
-            for length in range(1, 4):
-                if start + length > n:
-                    break
-                segment = s[start:start+length]
+            for length in range(1, min(4, n - start + 1)):
+                segment = s[start:start + length]
                 
-                # Skip invalid segments
-                if (segment[0] == "0" and length > 1) or int(segment) > 255:
+                # Skip if segment starts with '0' and has multiple digits
+                if len(segment) > 1 and segment[0] == '0':
                     continue
-                
-                path.append(segment)
-                backtrack(start + length, path)
-                path.pop()
+                    
+                # Convert to integer and validate
+                val = int(segment)
+                if val > 255:
+                    continue
+                    
+                # Recurse with this segment
+                parts.append(val)
+                backtrack(start + length, parts, count + 1)
+                parts.pop()
 
-        backtrack(0, [])
+        backtrack(0, [], 0)
         return res
