@@ -9,13 +9,13 @@ class Solution:
                 val = num[i:j+1]
 
                 if len(val) > 1 and val[0] == '0':
-                    continue
+                    break
 
                 if len(path) < 2 or path[-1] + path[-2] == int(val):
                     path.append(int(val))
                     if backtrack(path,j+1):
                         return True
                     path.pop()
-                    
+
             return False
         return backtrack([],0)           
