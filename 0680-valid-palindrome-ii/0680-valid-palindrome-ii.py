@@ -7,5 +7,5 @@ class Solution:
             if s[left] == s[right]:
                 left , right = left + 1 , right -1
             else:
-                return s[left:right] == s[left:right][::-1] or s[left+1:right+1] == s[left+1:right+1:-1][::-1]
+                return s[left:right] == s[left:right][::-1] or s[left+1:right+1] == s[left+1:right+1][::-1]
         return True
