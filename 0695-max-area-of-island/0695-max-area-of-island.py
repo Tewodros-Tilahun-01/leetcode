@@ -5,13 +5,15 @@ class Solution:
         visited = set()
         max_row = len(grid)
         max_col = len(grid[0])
+
         def dfs(row,col,grid):
-            nonlocal dr
             if grid[row][col] == 0:
                 return 0
+
             visited.add((row,col))
             count = 0
             if grid[row][col]:count += 1
+
             for r , c in dr:
                 new_row = r + row
                 new_col = c + col
