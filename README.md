@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1791-richest-customer-wealth](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1005-univalued-binary-tree) |
@@ -776,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1005-univalued-binary-tree) |
