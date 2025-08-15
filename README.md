@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0088-merge-sorted-array) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0455-assign-cookies) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0435-non-overlapping-intervals) |
