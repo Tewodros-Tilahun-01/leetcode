@@ -8,7 +8,7 @@ class Solution:
        
         while index < n:
             costA , costB = costs[index]
-            if( costA < costB and a > 0 )or b == 0:
+            if( costA < costB and a > 0 ) or b == 0:
                 res += costA
                 a -= 1
             else:
