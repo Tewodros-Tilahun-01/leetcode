@@ -8,4 +8,4 @@ class Solution:
             if max_jump < i:
                 return False
             max_jump = max(max_jump,i+nums[i])
-        return False
+        return True
