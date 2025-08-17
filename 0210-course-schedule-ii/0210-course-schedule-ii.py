@@ -10,8 +10,6 @@ class Solution:
         q = collections.deque([i for i in range(len(incoming)) if incoming[i] == 0])
 
         while q:
-            print(q)
-
             course = q.popleft()
             res.append(course)
             for i in graph[course]:
