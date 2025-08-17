@@ -1,24 +1,24 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        graph = collections.defaultdict(list)
-        incoming = [0 for i in range(numCourses)]
-        res = []
+        graph = [[] for _ in range(numCourses)]
+        incoming = [0] * numCourses
+        queue = collections.deque()
+        result = []
         
-        for c1 , c2 in prerequisites:
-            incoming[c1] += 1
+        for c1, c2 in prerequisites:
             graph[c2].append(c1)
-        q = collections.deque([i for i in range(len(incoming)) if incoming[i] == 0])
-
-        while q:
-            course = q.popleft()
-            res.append(course)
-            for i in graph[course]:
-                incoming[i] -= 1
-                if incoming[i] == 0:
-                    q.append(i)
+            incoming[c1] += 1
         
-        if len(res) == numCourses:
-            return res
-        return []
-
-
+        for i in range(numCourses):
+            if incoming[i] == 0:
+                queue.append(i)
+        
+        while queue:
+            course = queue.popleft()
+            result.append(course)
+            for next_course in graph[course]:
+                incoming[next_course] -= 1
+                if incoming[next_course] == 0:
+                    queue.append(next_course)
+        
+        return result if len(result) == numCourses else []
