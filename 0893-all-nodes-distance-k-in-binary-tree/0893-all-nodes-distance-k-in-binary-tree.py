@@ -10,7 +10,7 @@ class Solution:
         graph = collections.defaultdict(list)
         q = collections.deque()
         res = []
-        
+
         def change_to_graph(graph,node):
             if not node:
                 return
@@ -30,7 +30,7 @@ class Solution:
             val , step = q.popleft()  
             visited.add(val)  
             for nb in graph[val]:
-                if nb not in visited and step <= k:
+                if nb not in visited and step < k:
                     q.append((nb,step+1))
             if step == k:
                 res.append(val)
