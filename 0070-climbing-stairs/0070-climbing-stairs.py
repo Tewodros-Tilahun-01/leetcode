@@ -3,14 +3,8 @@ class Solution:
         memo = {}
         def dp(step):
             if step >= n:
-                return 1 if step == n else 0
-            if step in memo:
-                return memo[step]
-            res = 0
-            res += dp(step+1)
-            res += dp(step+2)
+                return 1 if step == n else 0  
             if step not in memo:
-                memo[step] = res
-            return res
-
+                memo[step] = dp(step+1) + dp(step+2)
+            return memo[step]
         return dp(0)
