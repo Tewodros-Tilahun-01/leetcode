@@ -1,9 +1,16 @@
 class Solution:
-    memo = {}
     def climbStairs(self, n: int) -> int:
-        if n == 0 or n == 1:
-            return 1
-        if n not in self.memo:
-            self.memo[n] = self.climbStairs(n-1) + self.climbStairs(n-2)
-        return self.memo[n]
-            
+        memo = {}
+        def dp(step):
+            if step >= n:
+                return 1 if step == n else 0
+            if step in memo:
+                return memo[step]
+            res = 0
+            res += dp(step+1)
+            res += dp(step+2)
+            if step not in memo:
+                memo[step] = res
+            return res
+
+        return dp(0)
