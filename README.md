@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0189-rotate-array) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0198-house-robber) |
@@ -849,4 +851,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1418-fair-distribution-of-cookies) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
