@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1013-fibonacci-number) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0547-number-of-provinces) |
