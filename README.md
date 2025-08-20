@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0805-escape-the-ghosts](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0805-escape-the-ghosts) |
 | [0829-subdomain-visit-count](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0890-lemonade-change) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0805-escape-the-ghosts](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0805-escape-the-ghosts) |
 | [1013-fibonacci-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
