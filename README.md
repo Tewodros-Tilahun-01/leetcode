@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1013-fibonacci-number) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
