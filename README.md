@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0169-majority-element) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0287-find-the-duplicate-number) |
