@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0858-masking-personal-information](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0858-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0889-buddy-strings) |
 | [0926-find-and-replace-pattern](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0926-find-and-replace-pattern) |
