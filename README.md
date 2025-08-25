@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0542-01-matrix) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0680-valid-palindrome-ii) |
