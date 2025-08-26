@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0125-valid-palindrome) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0189-rotate-array) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
