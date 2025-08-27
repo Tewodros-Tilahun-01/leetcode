@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1791-richest-customer-wealth](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2737-row-with-maximum-ones](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1731-even-odd-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1731-even-odd-tree) |
+| [1876-map-of-highest-peak](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Shortest Path
