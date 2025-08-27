@@ -1,29 +1,33 @@
+from collections import deque
+from typing import List
+
 class Solution:
     def highestPeak(self, isWater: List[List[int]]) -> List[List[int]]:
-        queue = collections.deque()
-        maxRow = len(isWater)
-        maxCol = len(isWater[0])
-        dir = [(0,1),(0,-1),(1,0),(-1,0)]
-        def isValid(row,col):
-            return 0 <= row < maxRow and 0 <= col < maxCol and isWater[row][col] != 0
-
-        for i in range(maxRow):
-            for j in range(maxCol):
-                if isWater[i][j] == 0:
-                    isWater[i][j] = float("inf")
-                else:
-                    isWater[i][j] = 0
-                    queue.append((i,j))
+        rows, cols = len(isWater), len(isWater[0])
+        heights = [[float('inf')] * cols for _ in range(rows)]
+        queue = deque()
+        
+        # Initialize water cells and queue
+        for i in range(rows):
+            for j in range(cols):
+                if isWater[i][j] == 1:
+                    heights[i][j] = 0
+                    queue.append((i, j))
+        
+        # Directions for adjacent cells (right, left, down, up)
+        directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+        
+        # BFS to assign heights
         while queue:
-            row , col = queue.popleft()
-            current = isWater[row][col]
-            for dx , dy in dir:
-                new_row , new_col = row + dx , col + dy
-                if 0 <= new_row < maxRow and 0 <= new_col < maxCol and isWater[new_row][new_col] != 0:
-                    if isWater[new_row][new_col] > current + 1:
-                        isWater[new_row][new_col] = current + 1
-                        queue.append((new_row,new_col))
-        return isWater
-
-
-                
+            row, col = queue.popleft()
+            current_height = heights[row][col]
+            
+            for dx, dy in directions:
+                new_row, new_col = row + dx, col + dy
+                # Check if the new position is valid and can be updated
+                if 0 <= new_row < rows and 0 <= new_col < cols:
+                    if heights[new_row][new_col] > current_height + 1:
+                        heights[new_row][new_col] = current_height + 1
+                        queue.append((new_row, new_col))
+        
+        return heights
