@@ -19,7 +19,7 @@ class Solution:
             current = isWater[row][col]
             for dx , dy in dir:
                 new_row , new_col = row + dx , col + dy
-                if isValid(new_row,new_col):
+                if 0 <= new_row < maxRow and 0 <= new_col < maxCol and isWater[new_row][new_col] != 0:
                     if isWater[new_row][new_col] > current + 1:
                         isWater[new_row][new_col] = current + 1
                         queue.append((new_row,new_col))
