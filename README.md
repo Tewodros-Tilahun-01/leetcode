@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0805-escape-the-ghosts](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0805-escape-the-ghosts) |
 | [0829-subdomain-visit-count](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0829-subdomain-visit-count) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
 | [0749-shortest-completing-word](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0829-subdomain-visit-count) |
 | [0889-buddy-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0889-buddy-strings) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0797-rabbits-in-forest](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0805-escape-the-ghosts](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0805-escape-the-ghosts) |
 | [1013-fibonacci-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1018-largest-perimeter-triangle) |
