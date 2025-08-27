@@ -16,9 +16,8 @@ class Solution:
 
             for dr, dc in directions:
                 new_row, new_col = row + dr, col + dc
-                if 0 <= new_row < rows and 0 <= new_col < cols:
-                    if mat[new_row][new_col] > current_dist + 1:
-                        mat[new_row][new_col] = current_dist + 1
-                        queue.append((new_row, new_col))
+                if 0 <= new_row < rows and 0 <= new_col < cols and mat[new_row][new_col] == float("inf"):
+                    mat[new_row][new_col] = current_dist + 1
+                    queue.append((new_row, new_col))
         
         return mat
