@@ -1,6 +1,5 @@
 class Solution:
     def numRabbits(self, answers: List[int]) -> int:
-        answers.sort()
         res = 0
         answered = {}
         for i in answers:
