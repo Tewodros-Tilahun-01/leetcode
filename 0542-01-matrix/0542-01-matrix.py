@@ -7,7 +7,7 @@ class Solution:
                 if mat[i][j] == 0:
                     queue.append((i, j))
                 else:
-                    mat[i][j] = float('inf')
+                    mat[i][j] = -1
         
         directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
         while queue:
@@ -16,7 +16,7 @@ class Solution:
 
             for dr, dc in directions:
                 new_row, new_col = row + dr, col + dc
-                if 0 <= new_row < rows and 0 <= new_col < cols and mat[new_row][new_col] == float("inf"):
+                if 0 <= new_row < rows and 0 <= new_col < cols and mat[new_row][new_col] == -1:
                     mat[new_row][new_col] = current_dist + 1
                     queue.append((new_row, new_col))
         
