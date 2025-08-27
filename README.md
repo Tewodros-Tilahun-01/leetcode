@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1095-two-city-scheduling](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1095-two-city-scheduling) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0979-di-string-match) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0871-keys-and-rooms) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1039-find-the-town-judge) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1916-find-center-of-star-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1916-find-center-of-star-graph) |
