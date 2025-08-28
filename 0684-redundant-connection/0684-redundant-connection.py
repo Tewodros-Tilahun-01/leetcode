@@ -9,7 +9,7 @@ class Solution:
             if px != py:
                 if rank[px] > rank[py]:
                     parent[py] = px
-                elif rank[py] < rank[py]:
+                elif rank[py] < rank[px]:
                     parent[px] = py
                 else:
                     parent[px] = py
