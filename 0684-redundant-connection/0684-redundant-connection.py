@@ -15,9 +15,9 @@ class Solution:
                     parent[px] = py
                     rank[py] += 1
         def find(x):
-            while x != parent[x]:
-                x = parent[x]
-            return x
+            if x != parent[x]:
+                parent[x] = find(parent[x])
+            return parent[x]
         for i , j in edges:
             x ,y = i-1,j-1
             if find(x) == find(y):
