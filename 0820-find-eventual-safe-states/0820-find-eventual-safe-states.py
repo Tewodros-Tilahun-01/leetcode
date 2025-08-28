@@ -14,6 +14,10 @@ class Solution:
             
             status[vertex] = 1
             
+            if not adj_list[vertex]:
+                status[vertex] = 2
+                return True
+            
             for next_vertex in adj_list[vertex]:
                 if not explore(next_vertex):
                     status[vertex] = 3
