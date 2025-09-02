@@ -1,19 +1,15 @@
 class Solution:
     def minimumReplacement(self, nums: List[int]) -> int:
-        current_largest = nums[-1]
-        total_replacements = 0
-        
-        for i in range(len(nums) - 1, -1, -1):
-            if nums[i] <= current_largest:
-                current_largest = nums[i]
+        n = len(nums)
+        max_num = nums[-1]
+        op = 0
+        for i in  range(n-2,-1,-1):
+            current_num = nums[i]
+            if current_num < max_num:
+                max_num = current_num
                 continue
+            parts = math.ceil(nums[i] / max_num)
+            op += parts - 1
+            max_num = nums[i] // parts
+        return op
 
-            if nums[i] % current_largest:
-                num_elements = nums[i] // current_largest + 1
-                current_largest = nums[i] // num_elements
-            else:
-                num_elements = nums[i] // current_largest
-            
-            total_replacements += num_elements - 1
-        
-        return total_replacements
