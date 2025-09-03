@@ -22,8 +22,8 @@ class Solution:
                 rank[px] += 1
         
         for x, y in stones:
-            row, col = x, y + 10001
+            row, col = f"r{x}", f"c{y}"
             union(row, col)
         
-        groups = set(find(x) for x, y in stones)
+        groups = set(find(f"r{x}") for x, y in stones)
         return len(stones) - len(groups)
