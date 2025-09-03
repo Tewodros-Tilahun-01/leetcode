@@ -14,12 +14,13 @@ class Solution:
             if px == py:
                 return
             if px > py:
-                px , py = py , px
-            parent[py] = px
+                parent[px] = py
+            else:
+                parent[py] = px
         n = len(s1)
         
-        for c1, c2 in zip(s1, s2):
-            union(c1, c2)
+        for i in range(n):
+            union(s1[i],s2[i])
         
         res = []
         for s in baseStr:
