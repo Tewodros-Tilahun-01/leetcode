@@ -11,12 +11,15 @@ class Solution:
         def union(x,y):
             px = find(x)
             py = find(y)
+            if px == py:
+                return
             if px > py:
                 px , py = py , px
             parent[py] = px
         n = len(s1)
-        for i in range(n):
-            union(s1[i],s2[i])
+        
+        for c1, c2 in zip(s1, s2):
+            union(c1, c2)
         
         res = []
         for s in baseStr:
