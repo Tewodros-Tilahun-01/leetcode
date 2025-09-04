@@ -21,11 +21,7 @@ class Solution:
                     
             return is_closed
         
-        # Mark boundary-connected land as visited
-        for i in range(rows):
-            for j in range(cols):
-                if grid[i][j] == 0 and (i == 0 or i == rows-1 or j == 0 or j == cols-1):
-                    dfs(i, j)
+        
         
         # Count closed islands
         islands = 0
