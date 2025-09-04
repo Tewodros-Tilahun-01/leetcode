@@ -1,13 +1,13 @@
 class Solution:
     def mostPoints(self, questions: List[List[int]]) -> int:
-        memo = {}
         n = len(questions)
-        def dp(i):
-            if i >= n:
-                return 0
-            if i in memo:
-                return memo[i]
-            points , brainpower = questions[i]
-            memo[i] = max(points + dp(brainpower+i+1) , dp(i+1))
-            return memo[i]
-        return dp(0)
+        dp = [0] * (n + 1)     
+
+        for i in range(n-1,-1,-1):
+            points , brainPower = questions[i]
+            dp[i] = points
+            next_indx = i+brainPower+1
+            if next_indx < n:
+                dp[i] = max(dp[i] ,points + dp[next_indx])
+            dp[i] = max(dp[i],dp[i+1])
+        return max(dp)
