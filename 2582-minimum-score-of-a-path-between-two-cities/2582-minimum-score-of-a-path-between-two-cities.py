@@ -1,7 +1,6 @@
 class Solution:
     def minScore(self, n: int, roads: List[List[int]]) -> int:
         parent = list(range(n+1))
-        print(parent)
         def union(x,y):
             px = find(x)
             py = find(y)
