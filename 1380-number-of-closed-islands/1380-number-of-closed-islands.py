@@ -11,7 +11,7 @@ class Solution:
                 return True
             
             # Mark as visited by changing to water
-            grid[row][col] = 2
+            grid[row][col] = 1
             is_closed = True
             
             # Check all four directions
