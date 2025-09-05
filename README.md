@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0518-coin-change-ii) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0306-additive-number) |
+| [0494-target-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0494-target-sum) |
 | [1418-fair-distribution-of-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Topological Sort
