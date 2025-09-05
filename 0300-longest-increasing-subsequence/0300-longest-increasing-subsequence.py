@@ -18,6 +18,6 @@ class Solution:
             return memo[i]
         
         result = 1
-        for i in range(n):
+        for i in range(n-1,-1,-1):
             result = max(result, dp(i))
         return result
