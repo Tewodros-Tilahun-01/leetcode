@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
+| [0722-remove-comments](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0722-remove-comments](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0722-remove-comments) |
 | [0749-shortest-completing-word](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0829-subdomain-visit-count) |
