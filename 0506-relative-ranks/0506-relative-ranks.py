@@ -1,24 +1,32 @@
 class Solution:
-    def findRelativeRanks(self, score: List[int]) -> List[str]:
-        n = len(score)
-        res = [0] * n
+    def find_max(self, score):
+        max_score = 0
+        for s in score:
+            if s > max_score :
+                max_score = s
+        return max_score
 
-        hashmap = {}
-        for i in range(n):
-            hashmap[score[i] ] = i
-            
-        score.sort(reverse=True)
+    def findRelativeRanks(self, score):
+        N = len(score)
 
-        for i in range(n):
-            rank = ""
-            if i == 0:
-                rank = "Gold Medal"
-            elif i == 1:
-                rank = "Silver Medal"
-            elif i == 2:
-                rank = "Bronze Medal"
-            else:
-                rank = str(i+1)
-            res[hashmap[score[i]]] = rank
+        # Add the original index of each score to the array
+        # Where the score is the key
+        M = self.find_max(score)
+        score_to_index = [-1] * (M + 1)
+        for i in range(N):
+            score_to_index[score[i]] = i 
 
-        return res
+        MEDALS = ["Gold Medal", "Silver Medal", "Bronze Medal"]
+
+        # Assign ranks to athletes
+        rank = [None] * N
+        place = 1
+        for i in range(M, -1, -1):
+            if score_to_index[i] != -1:
+                original_index = score_to_index[i] 
+                if place < 4:
+                    rank[original_index] = MEDALS[place - 1]
+                else:
+                    rank[original_index] = str(place)
+                place += 1
+        return rank
