@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1168-duplicate-zeros) |
 | [1206-corporate-flight-bookings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1217-relative-sort-array) |
+| [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1418-fair-distribution-of-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1217-relative-sort-array) |
+| [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1472-increasing-decreasing-string) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -929,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1005-univalued-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -957,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1731-even-odd-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1731-even-odd-tree) |
 | [1876-map-of-highest-peak](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1876-map-of-highest-peak) |
