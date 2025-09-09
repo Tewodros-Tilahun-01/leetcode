@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1962-single-threaded-cpu](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1962-single-threaded-cpu](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1127-last-stone-weight](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1127-last-stone-weight) |
+| [1962-single-threaded-cpu](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Interactive
