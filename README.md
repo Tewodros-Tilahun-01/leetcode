@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1873-longest-nice-substring) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1472-increasing-decreasing-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
