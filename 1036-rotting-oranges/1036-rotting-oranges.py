@@ -5,17 +5,6 @@ class Solution:
         rows , cols = len(grid) , len(grid[0])
         directions = [(0,1),(0,-1),(-1,0),(1,0)]
 
-        queue = deque()
-        for row in range(rows):
-            for col in range(cols):
-                if grid[row][col] == 2:
-                    queue.append((row,col))
-                elif grid[row][col] == 1:
-                    fresh_orange += 1
-        
-        if fresh_orange == 0:
-            return 0
-        
         def isFresh(row,col):
             return 0 <= row < rows and 0 <= col < cols and grid[row][col] == 1
 
@@ -35,7 +24,17 @@ class Solution:
                     
                 min_minutes += 1
                 if fresh_orange == 0:break
-
+            
+        queue = deque()
+        for row in range(rows):
+            for col in range(cols):
+                if grid[row][col] == 2:
+                    queue.append((row,col))
+                elif grid[row][col] == 1:
+                    fresh_orange += 1
+        
+        if fresh_orange == 0:
+            return 0
         bfs(queue)
         return -1 if fresh_orange != 0 else min_minutes
         
