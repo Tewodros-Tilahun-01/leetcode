@@ -26,11 +26,10 @@ class Solution:
         
         for key ,value in connected.items():
             connected[key] = sorted(value,reverse=True)
-        print(connected)
         
         res = []
         for i in range(n):
             char = connected[find(i)].pop()
             res.append(char)
-            
+
         return "".join(res)
