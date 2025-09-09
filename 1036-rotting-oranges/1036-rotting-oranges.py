@@ -26,11 +26,11 @@ class Solution:
                 if fresh_orange == 0:break
             
         queue = deque()
-        for row in range(rows):
-            for col in range(cols):
-                if grid[row][col] == 2:
-                    queue.append((row,col))
-                elif grid[row][col] == 1:
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == 2:
+                    queue.append((i,j))
+                elif grid[i][j] == 1:
                     fresh_orange += 1
         
         if fresh_orange == 0:
