@@ -5,8 +5,20 @@ class Solution:
         rows , cols = len(grid) , len(grid[0])
         directions = [(0,1),(0,-1),(-1,0),(1,0)]
 
+        queue = deque()
+        for row in range(rows):
+            for col in range(cols):
+                if grid[row][col] == 2:
+                    queue.append((row,col))
+                elif grid[row][col] == 1:
+                    fresh_orange += 1
+        
+        if fresh_orange == 0:
+            return 0
+        
         def isFresh(row,col):
             return 0 <= row < rows and 0 <= col < cols and grid[row][col] == 1
+
         def bfs(queue):
             nonlocal fresh_orange , min_minutes
             while queue:
@@ -22,20 +34,8 @@ class Solution:
                             queue.append((new_row,new_col))
                     
                 min_minutes += 1
-                if fresh_orange == 0:
-                        break
-            
-        
-        queue = deque()
-        for i in range(rows):
-            for j in range(cols):
-                if grid[i][j] == 2:
-                    queue.append((i,j))
-                elif grid[i][j] == 1:
-                    fresh_orange += 1
-        
-        if fresh_orange == 0:
-            return 0
+                if fresh_orange == 0:break
+
         bfs(queue)
         return -1 if fresh_orange != 0 else min_minutes
         
