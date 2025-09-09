@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1036-rotting-oranges](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1095-two-city-scheduling](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1095-two-city-scheduling) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1380-number-of-closed-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1791-richest-customer-wealth](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1036-rotting-oranges) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1380-number-of-closed-islands) |
