@@ -1,32 +1,35 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-
-
-        def merge_sort(left:int,right:int,array:list) -> list: 
-            if left == right:
-                return [array[left]]
-            mid = left + (right - left) // 2
-            left = merge_sort(left,mid,array)
-            right = merge_sort(mid+1,right,array)
-            return merge(left,right)
-
-        def merge(left:list,right:list)->list:
-            i = j = 0
-            sorted_array = []
-            while i < len(left) and j < len(right):
-                if left[i] <= right[j]:
-                    sorted_array.append(left[i])
-                    i += 1
+        def merge_sort(start: int, end: int, arr: List[int]) -> None:
+            if start >= end:
+                return
+            
+            mid = start + (end - start) // 2
+            merge_sort(start, mid, arr)
+            merge_sort(mid + 1, end, arr)
+            merge(start, mid, end, arr)
+        
+        def merge(start: int, mid: int, end: int, arr: List[int]) -> None:
+            # Create temporary array for merging
+            temp = arr[start:end + 1]
+            left, right = 0, mid - start + 1
+            i = start
+            
+            # Merge two sorted subarrays
+            while left <= mid - start and right <= end - start:
+                if temp[left] <= temp[right]:
+                    arr[i] = temp[left]
+                    left += 1
                 else:
-                    sorted_array.append(right[j])
-                    j += 1
-            sorted_array.extend(left[i:])
-            sorted_array.extend(right[j:])
+                    arr[i] = temp[right]
+                    right += 1
+                i += 1
             
-            return sorted_array
-
-        return merge_sort(0,len(nums)-1,nums)
-        
-        
-
-            
+            # Copy remaining elements from left subarray
+            while left <= mid - start:
+                arr[i] = temp[left]
+                left += 1
+                i += 1
+                
+        merge_sort(0, len(nums) - 1, nums)
+        return nums
