@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
+| [1603-running-sum-of-1d-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1651-shuffle-string) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0724-find-pivot-index) |
 | [1206-corporate-flight-bookings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
