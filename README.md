@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0118-pascals-triangle) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0113-path-sum-ii) |
