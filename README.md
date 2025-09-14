@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0342-power-of-four) |
@@ -623,10 +625,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0204-count-primes) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
