@@ -2,10 +2,10 @@ class Solution:
     def subarrayGCD(self, nums: List[int], k: int) -> int:
         n = len(nums)
 
-        def gcd(n,m):
-            if n == m or m == 0:
-                return n
-            return gcd(m,n%m)
+        def gcd(a, b):
+            while b:
+                a, b = b, a % b
+            return a
 
         count = 0
         for i in range(n):
@@ -16,4 +16,3 @@ class Solution:
                     count += 1
 
         return count
-
