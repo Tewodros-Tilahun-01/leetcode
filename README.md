@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2491-smallest-even-multiple](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Enumeration
 |  |
