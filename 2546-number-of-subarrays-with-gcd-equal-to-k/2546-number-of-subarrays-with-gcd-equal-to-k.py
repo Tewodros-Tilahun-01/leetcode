@@ -9,11 +9,16 @@ class Solution:
 
         count = 0
         for i in range(n):
+            if nums[i] % k != 0:  # Skip if nums[i] is not divisible by k
+                continue
             current_gcd = nums[i]
             for j in range(i, n):
+                if nums[j] % k != 0:  # Skip if nums[j] is not divisible by k
+                    break
                 current_gcd = gcd(current_gcd, nums[j])
+                if current_gcd < k:  # GCD cannot increase, so break
+                    break
                 if current_gcd == k:
                     count += 1
-                elif current_gcd < k:
-                    break
+
         return count
