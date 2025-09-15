@@ -14,5 +14,6 @@ class Solution:
                 current_gcd = gcd(current_gcd, nums[j])
                 if current_gcd == k:
                     count += 1
-
+                elif current_gcd < k:
+                    break
         return count
