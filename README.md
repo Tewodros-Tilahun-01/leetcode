@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1585-the-kth-factor-of-n](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0204-count-primes) |
+| [1585-the-kth-factor-of-n](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2491-smallest-even-multiple) |
