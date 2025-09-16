@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3447-clear-digits](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2556-convert-the-temperature](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2556-convert-the-temperature) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Number Theory
 |  |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Enumeration
 |  |
