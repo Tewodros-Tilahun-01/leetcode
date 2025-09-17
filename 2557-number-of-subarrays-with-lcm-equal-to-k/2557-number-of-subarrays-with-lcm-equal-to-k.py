@@ -8,9 +8,7 @@ class Solution:
             return gcf(n,m%n)
 
         def lcm(n,m):
-            if n >= m and n % m == 0:return n
-            elif n < m and m % n == 0:return m
-            else:return( m * n )  // gcf(m,n)      
+           return( m * n )  // gcf(m,n)      
 
         for i in range(n):
             _lcm = nums[i]
