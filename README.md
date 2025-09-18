@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0542-01-matrix) |
+| [0661-image-smoother](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0967-minimum-falling-path-sum) |
