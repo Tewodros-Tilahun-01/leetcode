@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0917-boats-to-save-people) |
 | [0926-find-and-replace-pattern](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0941-sort-array-by-parity](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
