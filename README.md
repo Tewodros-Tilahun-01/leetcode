@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2083-three-divisors) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -899,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Trie
 |  |
 | ------- |
