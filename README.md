@@ -642,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0805-escape-the-ghosts](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0805-escape-the-ghosts) |
+| [0897-prime-palindrome](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0204-count-primes) |
+| [0897-prime-palindrome](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0897-prime-palindrome) |
 | [1585-the-kth-factor-of-n](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
