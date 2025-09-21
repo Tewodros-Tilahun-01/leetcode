@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1380-number-of-closed-islands) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1039-find-the-town-judge) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1110,4 +1113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0948-sort-an-array) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
