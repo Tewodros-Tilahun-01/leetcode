@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0414-third-maximum-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0861-flipping-an-image) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Tree
 |  |
 | ------- |
