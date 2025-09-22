@@ -6,7 +6,6 @@ class Solution:
     def findMaximumXOR(self, arr: List[int]) -> int:
         root = Node()
         
-        # Insert all numbers into the Trie first
         for n in arr:
             cur = root
             for i in range(31, -1, -1):
