@@ -990,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1039-find-the-town-judge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1916-find-center-of-star-graph) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1036-rotting-oranges) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1380-number-of-closed-islands) |
