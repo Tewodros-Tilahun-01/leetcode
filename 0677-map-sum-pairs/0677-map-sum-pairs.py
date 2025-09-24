@@ -16,14 +16,16 @@ class MapSum:
                 node.children[index] = MapSum()
             node = node.children[index]
         node.val = val
-        
-    def dfs(self,s:str):
-        if not s:
-            return 0  
+
+    def dfs(self,node:str):
+        if not node:
+            return 0
         val = 0
-        if s.val:val += s.val
-        for c in  s.children:
-            val += self.dfs(c)
+        if node.val is not None:  
+            val += node.val
+        for child in node.children:
+            if child:  
+                val += self.dfs(child)
         return val
 
 
@@ -35,12 +37,7 @@ class MapSum:
             if not node.children[index]:
                 return 0
             node = node.children[index]
-        if node.val:
-            val += node.val
-        for c in node.children:
-            if c:
-                val += self.dfs(c)
-        return val
+        return self.dfs(node)
 
         
 
