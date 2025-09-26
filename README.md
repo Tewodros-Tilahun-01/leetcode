@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2058-concatenation-of-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1962-single-threaded-cpu](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
