@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0648-replace-words) |
 | [0661-image-smoother](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0682-baseball-game) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0721-accounts-merge) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0677-map-sum-pairs) |
 | [0680-valid-palindrome-ii](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0721-accounts-merge) |
@@ -957,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0648-replace-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0677-map-sum-pairs) |
 | [1397-search-suggestions-system](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1397-search-suggestions-system) |
 ## Tree
