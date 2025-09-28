@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
