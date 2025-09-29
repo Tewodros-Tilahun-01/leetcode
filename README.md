@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2058-concatenation-of-array) |
+| [2089-maximum-matrix-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2089-maximum-matrix-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2737-row-with-maximum-ones](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2089-maximum-matrix-sum](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
