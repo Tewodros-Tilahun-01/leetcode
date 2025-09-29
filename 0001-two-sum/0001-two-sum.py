@@ -2,8 +2,7 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hashmap = {}
         for i in range(len(nums)):
-            pair = target - nums[i]
-            if pair in hashmap:
-                return [hashmap[pair],i]
-            else:
-                hashmap[nums[i]] = i
+            cp = target - nums[i]
+            if cp in hashmap:
+                return [hashmap[cp],i]
+            hashmap[nums[i]] = i
