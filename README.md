@@ -953,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0744-network-delay-time](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0948-sort-an-array) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0871-keys-and-rooms) |
@@ -1085,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0871-keys-and-rooms) |
@@ -1117,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0871-keys-and-rooms) |
@@ -1137,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0744-network-delay-time) |
 ## Backtracking
 |  |
 | ------- |
