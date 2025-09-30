@@ -18,7 +18,6 @@ class WordDictionary:
     def search(self, word: str) -> bool:
         def dfs(node,i):
             if i == len(word):
-                print(node.is_end)
                 return node.is_end
             
             char = word[i]
