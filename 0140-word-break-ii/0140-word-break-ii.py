@@ -1,20 +1,48 @@
+class TrieNode:
+    def __init__(self):
+        self.isEnd = False
+        self.children = {}
+
+
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
+
+    def insert(self, word):
+        node = self.root
+        for char in word:
+            if char not in node.children:
+                node.children[char] = TrieNode()
+            node = node.children[char]
+        node.isEnd = True
+
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
-        wordset = set(wordDict)
-        res = []
+        dp = {len(s): [""]}
+        trie = Trie()
+        for word in wordDict:
+            trie.insert(word)
+        
+        for start in range(len(s)-1,-1,-1):
+            valid_sentence = []
+            node = trie.root
 
-        def backtrack(i,j,arr):
-            nonlocal wordset , s ,res 
-            if j == i == len(s):
-                res.append(" ".join(arr))
-                return 
-            if j == len(s):
-                return
-            word = s[i:j+1]
-            if word in wordset:
-                arr.append(word)
-                backtrack(j+1,j+1,arr)
-                arr.pop()  
-            backtrack(i,j+1,arr)
-        backtrack(0,0,[])
-        return res
+            for end in range(start,len(s)):
+                char = s[end]
+                if char not in node.children:
+                    break
+                node = node.children[char]
+                
+                if node.isEnd:
+                    current_word = s[start:end + 1]
+                    for next_sentence in dp[end + 1]:
+                        if next_sentence:
+                            valid_sentence.append(current_word + " " + next_sentence)
+                        else:
+                            valid_sentence.append(current_word)
+             
+            dp[start] = valid_sentence
+
+        return dp[0]
+
+
