@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1217-relative-sort-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1325-path-with-maximum-probability](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1380-number-of-closed-islands](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1397-search-suggestions-system) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1127-last-stone-weight) |
+| [1325-path-with-maximum-probability](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1962-single-threaded-cpu) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1325-path-with-maximum-probability](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -1157,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
 |  |
