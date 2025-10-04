@@ -1011,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
@@ -1131,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0695-max-area-of-island) |
