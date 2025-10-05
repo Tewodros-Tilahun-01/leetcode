@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0805-escape-the-ghosts) |
 | [0808-number-of-matching-subsequences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0829-subdomain-visit-count](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0829-subdomain-visit-count) |
+| [0839-short-encoding-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0890-lemonade-change) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0829-subdomain-visit-count](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0829-subdomain-visit-count) |
+| [0839-short-encoding-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0839-short-encoding-of-words) |
 | [0889-buddy-strings](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0889-buddy-strings) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0926-find-and-replace-pattern](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0768-partition-labels) |
 | [0808-number-of-matching-subsequences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0829-subdomain-visit-count](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0829-subdomain-visit-count) |
+| [0839-short-encoding-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0858-masking-personal-information](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0858-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0874-backspace-string-compare) |
@@ -1012,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0839-short-encoding-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0839-short-encoding-of-words) |
 | [1397-search-suggestions-system](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1397-search-suggestions-system) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 ## Tree
