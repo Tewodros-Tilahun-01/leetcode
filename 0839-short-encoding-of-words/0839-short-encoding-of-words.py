@@ -1,18 +1,17 @@
 class TrieNode:
     def __init__(self):
         self.children = {}
-        self.largest = 0
 class Trie:
     def __init__(self):
         self.root = TrieNode()
+
     def insert(self,word):
         node = self.root
-        n = len(word)
         for c in word:
             if c not in node.children:
                 node.children[c] = TrieNode()
             node = node.children[c] 
-            node.largest = max(node.largest,n)
+            
     def prifix(self,word):
         node = self.root
         for c in word:
