@@ -2,21 +2,17 @@ class TrieNode:
     def __init__(self):
         self.children = {}
 class Solution:
-    def partitionString(self, s: str) -> List[str]: 
-        res = []
-        root = TrieNode()
+    def partitionString(self,s: str) -> list[str]:
 
-        start = 0
-        while start < len(s):
-            end = start
-            node = root
-            while end < len(s) and s[end] in node.children:
-                node = node.children[s[end]]
-                end += 1
-            if end == len(s):break
+        seen = set()
+        segments = []
+        current = ""
 
-            node.children[s[end]] = TrieNode()
-            res.append(s[start:end+1])
-            start = end + 1
+        for char in s:
+            current += char
+            if current not in seen:
+                segments.append(current)
+                seen.add(current)
+                current = ""
 
-        return res
+        return segments
