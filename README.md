@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+| [3905-partition-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3905-partition-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3379-score-of-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3447-clear-digits) |
+| [3905-partition-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3905-partition-string) |
 ## Union Find
 |  |
 | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3447-clear-digits](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3447-clear-digits) |
+| [3905-partition-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3905-partition-string) |
 ## Greedy
 |  |
 | ------- |
@@ -1021,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-short-encoding-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0839-short-encoding-of-words) |
 | [1397-search-suggestions-system](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1397-search-suggestions-system) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+| [3905-partition-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3905-partition-string) |
 ## Tree
 |  |
 | ------- |
