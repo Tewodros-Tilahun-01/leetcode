@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2502-sort-the-people) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3195-separate-black-and-white-balls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3151-minimum-processing-time](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Two Pointers
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
