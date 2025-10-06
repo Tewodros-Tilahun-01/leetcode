@@ -1,7 +1,6 @@
 class TrieNode:
     def __init__(self):
         self.children = {}
-        self.end = False
 class Solution:
     def partitionString(self, s: str) -> List[str]: 
         res = []
@@ -19,5 +18,5 @@ class Solution:
             node.children[s[end]] = TrieNode()
             res.append(s[start:end+1])
             start = end + 1
-            
+
         return res
