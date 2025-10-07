@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3379-score-of-a-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3447-clear-digits) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3905-partition-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3905-partition-string) |
 ## Union Find
 |  |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2262-solving-questions-with-brainpower](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -965,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -976,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1027,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-short-encoding-of-words](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0839-short-encoding-of-words) |
 | [1397-search-suggestions-system](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1397-search-suggestions-system) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3356-shortest-uncommon-substring-in-an-array) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3905-partition-string](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3905-partition-string) |
 ## Tree
 |  |
@@ -1262,4 +1268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Segment Tree
+|  |
+| ------- |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
+## Hash Function
+|  |
+| ------- |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 <!---LeetCode Topics End-->
