@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2778-frequency-tracker](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2778-frequency-tracker) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1512-design-underground-system](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/1582-design-browser-history) |
+| [2778-frequency-tracker](https://github.com/Tewodros-Tilahun-01/leetcode/tree/master/2778-frequency-tracker) |
 ## Doubly-Linked List
 |  |
 | ------- |
